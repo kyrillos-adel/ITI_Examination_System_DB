@@ -61,4 +61,4 @@ The system consists of the following main tables:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-For any issues or inquiries, contact [Kyrillos Adel] at [kyrillosadelfahim@gmail.com].
+For any issues or inquiries, contact **Kyrillos Adel** at kyrillosadelfahim@gmail.com
