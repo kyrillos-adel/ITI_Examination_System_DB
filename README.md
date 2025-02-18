@@ -4,7 +4,7 @@
 This repository contains the database schema and scripts for the ITI Examination System project.
 The system is designed to manage examinations, including students, courses, questions, and results.
 
-This project is part of the **ITI Full Stack Web Development using .NET ICC Program** program, specifically for the **Database Course**.
+This project is part of the **ITI Full Stack Web Development using .NET ICC** program, specifically for the **Database Course**.
 
 ## Features
 - Structured database schema for an examination system
