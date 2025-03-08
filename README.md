@@ -14,7 +14,7 @@ This project is part of the **ITI Full Stack Web Development using .NET ICC** pr
 - Implementation of stored procedures, functions, views, and triggers
 
 ## Technologies Used
-- **Database Management System:** SQL Server / MySQL (Specify the actual DBMS used)
+- **Database Management System:** SQL Server
 - **SQL Scripts:** DDL and DML queries for database setup
 
 ### ER Diagram
